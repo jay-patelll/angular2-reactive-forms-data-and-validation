@@ -1,8 +1,4 @@
-h1 {
-  margin: 0;
-  padding-left: 1em;
-  font-size: 4em;
-}
+
 @media only screen and (max-width: 948px) {
   h1 {
     font-size: 3em;
@@ -21,3 +17,4 @@ h1 {
     padding-left: .4em;
   }
 }
+body{}
